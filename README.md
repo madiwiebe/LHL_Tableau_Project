@@ -1,7 +1,10 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+
+The objective of this project was to compare causes of death worldwide from 1990-2019. The impact of factors such as disease, natural disasters, and conflict were evaluated based on overall number of mortalities, contribution to mortality rate (as percent of population), and geographical regions.
+
+The trends of leading causes of death were investigated, and those factors that heavily impacted the overall trend of global death rates were examined more closely.
 
 ## Process
 ### (your step 1)
