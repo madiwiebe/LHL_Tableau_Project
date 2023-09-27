@@ -6,6 +6,10 @@ The objective of this project was to compare causes of death worldwide from 1990
 
 The trends of leading causes of death were investigated, and those factors that heavily impacted the overall trend of global death rates were examined more closely.
 
+Cardiovascular disease, neoplasms, and chronic respiratory diseases were identified as the leading causes of death globally as well as in several countries.
+
+Conflict and terrorism as well as natural disasters were found to be the underlying cause of abnormal peaks in global mortality rates.
+
 ## Process
 ### (your step 1)
 ### (your step 2)
