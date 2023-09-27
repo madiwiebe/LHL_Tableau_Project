@@ -48,7 +48,7 @@ Conflict and terrorism as well as natural disasters were found to be the main un
 
 ## Results
 
-I chose to work with the "Causes of Death - Our World In Data" dataset (Opetion 2). Initially, I worked with the raw data; however, after some data exploration I realized that having the causes of death in columns instead of rows was severely limiting my ability to aggregate and filter my data.
+I chose to work with the "Causes of Death - Our World In Data" dataset (Option 2). Initially, I worked with the raw data; however, after some data exploration I realized that having the causes of death in columns instead of rows was severely limiting my ability to aggregate and filter my data.
 
 After revisiting the source data, I found a version of the dataset that had been reshaped to have cause of death information stored in the rows.
 
@@ -68,7 +68,7 @@ I noticed that within each cause of death category, it was countries with large 
 
 Knowing that population size was significantly correlated with number of deaths, I attempted to normalize the data by creating a calculated field for mortality rates:
 
-$$mortality rate={number of deaths/population} * 100%$$
+mortality rate = $number of deaths/population$ * 100%
 
 When comparing mortality rates instead of total number of deaths, the country rankings shifted dramatically. While China, India, and the United States have the largest number of deaths in 2015, Lesotho, Somalia, and Bulgaria had the highest mortality rates.
 
@@ -78,11 +78,11 @@ I created regional groups to allow for more flexible levels of detail within my 
 
 ### Question 5: What are the leading causes of death in Canada? Are they predicted to increase or decrease in the next 10 years?
 
-Cardiovascular diseases, neoplasms, and chronic respiratory diseases were the three leading causes of death in Canada. Unfortunately, all three are predicted to increase in the next 10 years. However, other causes of death that are not so prevalent did demonstrate downward trends (e.g. meningitis, interpersonal violence, and neonatal disorders).
+Cardiovascular diseases, neoplasms, and chronic respiratory diseases were the three leading causes of death in Canada. All three were predicted to increase in the next 10 years. However, other causes of death that were not so prevalent did demonstrate downward trends (e.g. meningitis, interpersonal violence, and neonatal disorders).
 
 ### Question 6: How have trends in global number of deaths changed over time?
 
-In general, the global number of deaths increases in a slow and smooth fashion. However, there were some years with irregular peaks in this trend. When exploring this peaks further, they were identifiable as years where there was a large loss of life due to conflict or natural disasters. When visualizing those causes of death independently, it was clear that they did not follow a smooth trend. These causes involve a large number of deaths within a short span of time, as opposed to other causes where the timeframe is much more spread out.
+In general, the global number of deaths increased in a slow and smooth fashion. However, there were some years with irregular peaks in this trend. When exploring this peaks further, they were identifiable as years where there was a large loss of life due to conflict or natural disasters. When visualizing those causes of death independently, it was clear that they did not follow a smooth trend. These causes involve a large number of deaths within a short span of time, as opposed to other causes where the timeframe is much more spread out.
 
 ### Question 7: How can countries be grouped based on population size, number of deaths, and mortality rate? Do these countries have any other variables in common? 
 
