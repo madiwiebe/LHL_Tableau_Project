@@ -8,7 +8,11 @@ The trends of leading causes of death were investigated, and those factors that 
 
 Cardiovascular disease, neoplasms, and chronic respiratory diseases were identified as the leading causes of death globally as well as in several countries.
 
-Conflict and terrorism as well as natural disasters were found to be the underlying cause of abnormal peaks in global mortality rates.
+![Global_mortality_rates](docs/images/2015%20deaths%20by%20percent%20population.png)
+
+Conflict and terrorism as well as natural disasters were found to be the main underlying cause of abnormal peaks in global mortality rates.
+
+![Conflict_and_natural_disasters](docs/images/ConflictNatural%20DIsasters.png)
 
 ## Process
 ### (your step 1)
