@@ -68,7 +68,7 @@ I noticed that within each cause of death category, it was countries with large 
 
 Knowing that population size was significantly correlated with number of deaths, I attempted to normalize the data by creating a calculated field for mortality rates:
 
-mortality rate = $number of deaths/population$ * 100%
+    mortality rate = number of deaths/population * 100%
 
 When comparing mortality rates instead of total number of deaths, the country rankings shifted dramatically. While China, India, and the United States have the largest number of deaths in 2015, Lesotho, Somalia, and Bulgaria had the highest mortality rates.
 
